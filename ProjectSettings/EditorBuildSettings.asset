@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: bf1651979ea42b747bbdb5a8da7531eb
+  - enabled: 1
+    path: Assets/Scenes/Cinematicas/Cinematica Inical.unity
+    guid: a1d66501f583f4b4b89a22b3630e2229
+  - enabled: 1
+    path: Assets/Scenes/Cinematicas/Cinematica Recepcion.unity
+    guid: 46a70e0f78edda448ac5b03fd4bd0acb
+  - enabled: 1
+    path: Assets/Scenes/Tutorial_Joan+ UI.unity
+    guid: 5e7f872631c03d7419ce8662ded90319
+  - enabled: 1
+    path: Assets/Scenes/Zone_1_Joan.unity
+    guid: 00752458a864f8244a35c580677fb1b0
+  - enabled: 1
+    path: Assets/Scenes/Cinematicas/Cinematica Final.unity
+    guid: 2246deb9d3481db44953b358814f4d69
+  m_configObjects: {}

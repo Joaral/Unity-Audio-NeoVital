@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pared
+  - FireBall
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Bala
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3139747549
+    locked: 0
+  - name: Decoration
+    uniqueID: 3115448981
+    locked: 0
+  - name: Foreground
+    uniqueID: 497769753
+    locked: 0
+  - name: Platforms
+    uniqueID: 1240651699
+    locked: 0
+  - name: Walls
+    uniqueID: 3530352151
+    locked: 0
+  - name: Player
+    uniqueID: 4272389017
+    locked: 0

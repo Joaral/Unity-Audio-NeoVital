@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 34aa0945ded2ca74180a068a02578df3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - CyberpunkCraftpixPixel
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d52df0e12fbada6469c9bf1920a87f49, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: cyberpunk
+  assetBundleVariant: cyber
